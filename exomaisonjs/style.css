@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+.demo1, .exos1, .exos2, .demo2, .demo3, .demo4, .demo5, .exos3, .exos3_5, .demo6, .demo7, .demo8 {
+    height: 540px;
+    width: 520px;
+    border: 1px solid rgb(255, 0, 0);
+    float: left;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+canvas {
+    border: 3px solid grey;
+    margin: 10px;
+    /*background-color: rgb(226, 226, 226);*/
+}
